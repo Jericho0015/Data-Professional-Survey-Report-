@@ -1,7 +1,11 @@
 # 📊 Data Professional Survey Dashboard  
 
-An interactive **Power BI Dashboard** analyzing insights from a global survey of **Data Science & Analytics professionals**.  
-This project not only visualizes the results but also includes **data analysis & cleaning** to ensure accurate and actionable insights.  
+Analyzing insights from a global survey of **Data Science & Analytics professionals**.  This project not only visualizes the results but also includes **data analysis & cleaning** to ensure accurate and actionable insights.  
+
+## 📸 Dashboard Preview  
+
+### Main Dashboard – Data Professional Survey Breakdown  
+![Dashboard Preview](https://github.com/Jericho0015/Data-Professional-Survey-Report-/blob/main/Survey%20Report%20Preview/Report_Preview.png)  
 
 ---
 
@@ -54,12 +58,6 @@ Before building the dashboard, the dataset was analyzed and cleaned in **Power Q
 
 ---
 
-## 📸 Dashboard Preview  
-
-### Main Dashboard – Data Professional Survey Breakdown  
-![Dashboard Preview](images/data_professional_survey.png)  
-
----
 
 ## 🌟 Features & Highlights  
 
